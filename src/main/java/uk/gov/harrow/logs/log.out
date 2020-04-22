@@ -1,0 +1,8 @@
+2020-04-20 23:04:526 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 23:04:264 INFO  HomePage :23 -  Click on Login/register link Proxy element for: DefaultElementLocator 'By.linkText: Log in / Register'
+2020-04-20 23:04:860 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 23:04:456 INFO  HomePage :29 -  Click on service button [[ChromeDriver: chrome on WINDOWS (74a52b15bc4216d58beca8ed8a80c008)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]
+2020-04-20 23:04:93 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 23:04:432 INFO  HomePage :23 -  Click on Login/register link Proxy element for: DefaultElementLocator 'By.linkText: Log in / Register'
+2020-04-20 23:04:373 INFO  BrowserSelector :19 - Launching Chrome Browser
+2020-04-20 23:04:120 INFO  HomePage :29 -  Click on service button [[ChromeDriver: chrome on WINDOWS (e66d8513ac57d590d223fb62abe33433)] -> xpath: //span[@class='button__text'][contains(text(),'Services')]]

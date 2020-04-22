@@ -4,11 +4,11 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.117">
+           time="31.350">
   <properties />
   
   
-            <testcase name="varifyUserShouldClickOnServicesButton" time="0.064" classname="uk.gov.harrow.testsuite.TestCase" />
-                <testcase name="varifyUserShouldClickOnLoginOrRegisterLink" time="1.053" classname="uk.gov.harrow.testsuite.TestCase" />
+            <testcase name="varifyUserShouldClickOnServicesButton" time="0.080" classname="uk.gov.harrow.testsuite.TestCase" />
+                <testcase name="varifyUserShouldClickOnLoginOrRegisterLink" time="31.270" classname="uk.gov.harrow.testsuite.TestCase" />
       
 </testsuite>
